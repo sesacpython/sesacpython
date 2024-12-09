@@ -1,24 +1,26 @@
-## 파일 끌어오기
-- git pull 
+- 마스터브랜치 복사하기(맨처음 한번만 하면됨)
+git clone [마스터브랜치 주소]
 
-## 파일 올리기
-- git add (파일명)
-- git commit -m '메시지'
-- git push origin branch이름
+- 처음시작할때 초기화하기(맨처음 한번만 하면됨)
+git init
 
-## 최소 1일1문제
+- origin추가하기(맨처음 한번만 하면됨)
+git remote add origin [마스터브랜치 주소]
 
-## 문제 추가는 자율, 형식만 지켜주세요!
+- repository 이동시키기
+cd sesacpython
 
-- 형식
+- 원하는 branch로 이동하기 
+git checkout [branch이름]
 
-    #제목 : lv레벨_문제순서
-  
-    #백준or프로그래머스/테스트 이름 
+- 가상공간에 파일 임시로 올리기
+git add [파일명]
 
-    #주소
-  
-    #문제
-  
-    #코드 시작
+- commit + 메시지 달기
+git commit -m '메시지'
 
+- push하기
+git push origin [브랜치이름]
+
+- pull하기(파일 가져오기)
+git pull
