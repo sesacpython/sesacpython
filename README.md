@@ -1,3 +1,11 @@
+파일 끌어오기
+git pull 
+
+파일 올리기
+git add (파일명)
+git commit -m '메시지'
+git push origin branch이름
+
 **최소 1일1문제
 
 **문제 추가는 자율, 형식만 지켜주세요!
