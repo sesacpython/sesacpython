@@ -1,5 +1,10 @@
-### 프로그래머스 day1~25 https://school.programmers.co.kr/learn/challenges/training?order=recent&page=1
-
+## 프로그래머스 day1~25 
+### https://school.programmers.co.kr/learn/challenges/training?order=recent&page=1
+```
+week1      ~12.15 : 1-20문제 
+week2 12.16-12.22 : 21-40문제 
+week2 12.23-12.29 : 41-60문제 
+```
 **마스터브랜치 복사하기(맨처음 한번만 하면됨)**
 
 ```
