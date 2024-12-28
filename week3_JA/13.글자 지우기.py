@@ -1,3 +1,4 @@
+#인덱스 순회하며 indices와 비교
 def solution(my_string, indices):
     s_lst = list(my_string)
     
