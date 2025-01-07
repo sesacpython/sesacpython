@@ -10,7 +10,8 @@ def solution(arr):
             if i >= 50 and i%2==0:
                 result.append(i/2)
             elif i < 50 and i%2==1:
-                result.append(i*2)
+                result.append(i*2+1)
             else:
                 result.append(i)
-    return num
+    return num-1
+        
