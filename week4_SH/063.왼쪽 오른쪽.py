@@ -10,5 +10,5 @@ def solution(str_list):
             return str_list[j+1:]
         elif str_list == []:
             return []
-        elif "i" not in str_list and "r" not in str_list:
+        elif "l" not in str_list and "r" not in str_list:
             return []
