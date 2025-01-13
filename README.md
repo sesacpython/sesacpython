@@ -1,5 +1,5 @@
 ## 프로그래머스 day1~25 
-### https://school.programmers.co.kr/learn/challenges/training?order=recent&page=1
+### https://school.programmers.co.kr/learn/challenges/training?order=recent&page=6
 ```
 week1      ~12.15 : 1-20문제 
 week2 12.16-12.22 : 21-40문제 
