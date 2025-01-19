@@ -1,5 +1,5 @@
 def solution(n):
-    answer = []
+    arr = []
     for i in range(n):
         row = []
         for j in range(n):
@@ -7,5 +7,5 @@ def solution(n):
                 row.append(1)
             else:
                 row.append(0)
-        answer.append(row)
-    return answer
+        arr.append(row)
+    return arr
