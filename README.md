@@ -1,5 +1,5 @@
-## 프로그래머스 day1~25 
-### https://school.programmers.co.kr/learn/challenges/training?order=recent&page=6
+## 알고리즘 고득점 kit
+### [https://school.programmers.co.kr/learn/challenges/training?order=recent&page=6](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 ```
 week1      ~12.15 : 1-20문제 
 week2 12.16-12.22 : 21-40문제 
@@ -7,6 +7,7 @@ week3 12.23-12.29 : 41-60문제
 week4 12.30-01.05 : 61-80문제
 week5 01.06-01.12 : 81-100문제
 week6 01.13-01.19 : 101-124문제
+week7 02.04-02.09 : 알고리즘 고득점 kit_해쉬
 ```
 **마스터브랜치 복사하기(맨처음 한번만 하면됨)**
 
