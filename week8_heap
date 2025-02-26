@@ -1,0 +1,31 @@
+힙
+트리구조, "부모"가 "자식"보다 크거나 작음.
+
+-----------------------
+1.
+heap = []
+heapq.heappush(heap, 50)
+heapq.heappush(heap, 10)
+heapq.heappush(heap, 20)
+
+print(heap)
+
+[10,50,20]        
+
+heapq는 리스트를 힙처럼 다루는 모듈
+------------------------------------------
+2.
+heap2 = [50 ,10, 20]
+heapq.heapify(heap2)
+
+print(heap2)
+
+[10,50,20]
+ 
+ hepify 생성된 리스트를 힙으로 만드는 모듈
+-----------------
+3. heap.heappop(heap2)
+
+[10]
+
+heappop은 제일 작은원소를 배텅냄
