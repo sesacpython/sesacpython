@@ -1,0 +1,18 @@
+def solution(scoville, K):
+    import heapq
+    heapq.heapify(scoville)
+    
+    
+    result=0
+    c=0
+    while K >= scoville[0] and len(scoville) >= 2:
+        a= heapq.heappop(scoville)
+        b= heapq.heappop(scoville)
+        c = a+(2*b)
+        heapq.heappush(scoville, c)
+        result += 1
+    
+    if len(scoville) <= 2 and scovile[-1] <= K :
+        return -1
+    else:
+        return result
